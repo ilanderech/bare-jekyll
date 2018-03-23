@@ -6,3 +6,4 @@ Just something to simply start hacking.
     cd bare-jekyll
     bundle
     bundle exec jekyll serve
+    Hola popo
